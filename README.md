@@ -62,9 +62,22 @@ Citation
 
 If you use this code, please cite the paper:
 
-J. Jafari-Asl, Y. Dong, and P. Spyridis, "Large language models as knowledge-guided proposers for reliability-based design optimization of truss structures," Advances in Engineering Software.
+J. Jafari-Asl, Y. Dong, and P. Spyridis, "Large language models as knowledge-guided proposers for reliability-based design optimization of truss structures," Advances in Engineering Software. https://www.sciencedirect.com/science/article/pii/S0965997826002498#appB
 
-(The full bibliographic details will be updated once the article is published.)
+
+@article{JAFARIASL2027104344,
+title = {Large language models as knowledge-guided proposers for reliability-based design optimization of truss structures},
+journal = {Advances in Engineering Software},
+volume = {224},
+pages = {104344},
+year = {2027},
+issn = {0965-9978},
+doi = {https://doi.org/10.1016/j.advengsoft.2026.104344},
+url = {https://www.sciencedirect.com/science/article/pii/S0965997826002498},
+author = {Jafar Jafari-Asl and You Dong and Panagiotis Spyridis},
+
+
+
 
 Contact and contributions
 
